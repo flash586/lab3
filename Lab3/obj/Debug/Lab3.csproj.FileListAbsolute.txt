@@ -1,0 +1,14 @@
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\cuani\OneDrive\Рабочий стол\3_KURS\Жуковський\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\watislove\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\watislove\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\watislove\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\watislove\Desktop\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\watislove\Desktop\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\watislove\Desktop\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\watislove\Desktop\Lab3\Lab3\obj\Debug\Lab3.pdb
